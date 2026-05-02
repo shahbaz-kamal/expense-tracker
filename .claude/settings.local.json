@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(Get-ChildItem -Path \"E:\\\\self-learning\\\\19-claude\\\\expense-tracker-starter\" -Force)",
+      "Bash(Select-Object -Property Name, Mode)"
+    ]
+  }
+}
